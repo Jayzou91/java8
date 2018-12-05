@@ -1,4 +1,4 @@
-package com.funny.java.multithread;
+package com.fish.multithread;
 
 import java.time.Duration;
 import java.time.Instant;

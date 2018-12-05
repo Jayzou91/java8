@@ -1,4 +1,4 @@
-package com.funny.java.parallel;
+package com.fish.parallel;
 
 import java.util.HashMap;
 import java.util.Map;

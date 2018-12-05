@@ -1,4 +1,4 @@
-package com.funny.java.parallel;
+package com.fish.parallel;
 
 /**
  * @Description:

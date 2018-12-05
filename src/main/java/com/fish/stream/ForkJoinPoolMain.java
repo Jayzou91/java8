@@ -1,4 +1,4 @@
-package com.funny.java.stream;
+package com.fish.stream;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;

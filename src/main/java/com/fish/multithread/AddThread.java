@@ -1,4 +1,4 @@
-package com.funny.java.multithread;
+package com.fish.multithread;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.CountDownLatch;

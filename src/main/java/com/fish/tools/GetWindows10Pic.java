@@ -1,4 +1,4 @@
-package com.funny.java.tools;
+package com.fish.tools;
 
 import java.io.IOException;
 import java.nio.file.FileVisitOption;
